@@ -52,7 +52,6 @@ Join our community of developers creating universal apps.
 
 
 ## Demo
-Here is a simple demo of the app:
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
